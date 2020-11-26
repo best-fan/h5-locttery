@@ -1,6 +1,27 @@
 # h5-locttery
 h5转盘抽奖 vue项目
 
+##  项目截图
+![image](http://blog.bravetimes.cn/api/public/uploads/2020/11/26/1606359438452116.png)
+
+![image](http://blog.bravetimes.cn/api/public/uploads/2020/11/26/1606359483393989.png)
+
+##  项目目录 
+```
+src
+  components 组件目录
+  images	图片目录
+  pages    文件路径
+  App.vue
+  main.js
+babel.config.js
+package-lock.json
+README.md
+package.json
+vue.config.js
+```
+  
+
 #  运行方式
 
 ```
