@@ -2,9 +2,9 @@
 h5转盘抽奖 vue项目
 
 ##  项目截图
-![image](http://blog.bravetimes.cn/api/public/uploads/2020/11/26/1606359438452116.png)
+![image](http://www.bravetimes.cn/api/public/uploads/2020/11/26/1606359438452116.png)
 
-![image](http://blog.bravetimes.cn/api/public/uploads/2020/11/26/1606359483393989.png)
+![image](http://www.bravetimes.cn/api/public/uploads/2020/11/26/1606359483393989.png)
 
 ##  项目目录 
 ```
@@ -96,8 +96,8 @@ drawList结构如下：
 ```
 
 在线演示地址：
-[**大转盘抽奖**](http://blog.bravetimes.cn/project/draw/index.html) 
-[**技术文档地址**](http://blog.bravetimes.cn/Detail?id=27&navId=1)
+[**大转盘抽奖**](http://www.bravetimes.cn/project/draw/index.html) 
+[**技术文档地址**](http://www.bravetimes.cn/Detail?id=27&navId=1)
 
 
 
